@@ -1,0 +1,217 @@
+ #SkypeButton_Dropdown_e2visalobby_1 a img {
+margin: 0 !important; 
+vertical-align:1 !important
+}
+
+.anchor {
+  font :000 !important;
+  color: 000 !important
+}
+
+ol .definitions {
+  font :000 !important;
+  color: 000 !important
+}
+
+ol .definitions {
+  font :000 !important;
+  color: 000 !important
+}
+
+.anchor a:link {
+ color:red !important; 
+ text-decoration:none !important
+}
+
+.anchor a:visited {
+ color:green; 
+ text-decoration:none !important
+}
+
+
+
+h1:first-letter,h2:first-letter,h2:first-letter,h3:first-letter,h4:first-letter,h5:first-letter,h6:first-letter,p:first-letter     { 
+text-transform: capitalize !important;
+}
+
+.topbar:first-letter {
+text-transform: none !important;
+}
+
+footer {
+  font-size: 12px
+}
+
+
+
+/*-------------------*/
+
+/*h1:first-letter {
+ font-size:200%;
+ color:#000;
+}*/
+
+/*nav ul {
+  margin: 0;
+  padding: 0;
+}
+nav ul li{
+  float:left;
+}*/
+
+/*nav ul li a {
+  display:block;
+  height:5px;
+  color:#ccc;
+  padding:10px 36px 0 36px;
+  font-size:17px;  makes the nav text a bit larger than the default body font-size 
+}*/
+
+/*  nav ul li a:hover {
+    text-decoration:none;
+    background:url(../images/bg_nav_rollover.png) repeat-x;
+    color:#96DDFC;
+  }*/
+
+<!--GOOGLE FONT API. -->
+h1, h2, h3, h4, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+.panel ol li h5 {
+    font-family: 'Nobile'!important, Helvetica, Arial, sans-serif;
+}
+
+<!--END GOOGLE FONT API. -->
+
+<!--TYPEKIT FONT API. -->
+h1, h2, h3, h4, h6 {
+    font-family: 'velino-poster', sans-serif;
+}
+p, div {
+    font-family: 'velino-poster',sans-serif;
+}
+
+.panel ol li h5 {
+    font-family: 'Nobile'!important, Helvetica, Arial, sans-serif;
+}
+
+<!--END TYPEKIT FONT API. -->
+
+
+.topbar/* .title-area .home*/{
+  text-transform:uppercase;
+}
+
+.home {
+   text-transform:uppercase;
+}
+
+li.li-hide {
+  list-style: none;
+}
+
+
+ol.list-alphabet li {
+  list-style: lower-alpha;
+}
+
+
+
+/*  .top-bar .title-area {
+    position: relative;
+    margin: 0; }
+  .top-bar .name {
+    height: 45px;
+    margin: 0;
+    font-size: 16px; }
+    .top-bar .name h1 {
+      line-height: 45px;
+      font-size: 1.0625em;
+      margin: 0; }
+      .top-bar .name h1 a {
+        font-weight: bold;
+        color: white;
+        width: 50%;
+        display: block;
+        padding: 0 15px; }
+
+*/
+/*
+header { 
+display:block;title.area
+}*/
+
+
+.panel h4 {
+  line-height: 1.3;
+  font-size: 1.1em;
+}
+
+
+
+.large.button.petition {
+  background-color: #c31910;
+}
+
+/*----------------------------------------------------------------------------- 
+=05 COLUMNS 
+-----------------------------------------------------------------------------*/
+
+/*#images {
+  overflow:hidden;
+}
+*/
+ #images .infographic {
+    float:left;
+    width:290px;
+    margin-right:40px;
+    background:url(https://www.facebook.com/photo.php?fbid=361533357279642&set=a.149311565168490.22760.143594619073518&type=1&theater) repeat-x;
+  }
+  #images .infographic img {
+      border:6px solid #E2E2E2;
+    }
+    
+  #images .infographic img:hover {
+      border-color:#F9F9F9;
+    }
+
+ /* #home-boxes .last{ 
+    margin-right:0;  removes the right margin so that the image is both flush right, and so that it doesn't get pushed down to the next line 
+  }*/
+
+ #images .infographic h2 {
+    margin: 0;
+    padding: 10px 0 15px 0;
+  }
+
+.fbPhotoSnowlift .stage img {
+display: inline-block;
+max-height: 100%;
+max-width: 100%;
+vertical-align: middle;
+}
+
+
+/*.top-bar h1{width:7150px; height:22px;}*/
+.top-bar h1 img {display:block; margin-top:-3.1em}
+/*.top-bar h1 img {border:0; vertical-align: middle;}*/
+/*.top-bar h1 img {max-width:100%; height: auto;}*/
+
+
+.title {
+   font-size: 1.1em;
+   font-weight: bold; 
+   text-transform: capitalize !important;
+ }
+  
+  .link-em {
+   font-weight: bold; 
+ }
+
+label.inline {
+    margin: 0 0 0em 0 !important;
+    padding: 0.625em 0; }

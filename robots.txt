@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /googlecd448dc831d1cf60.html
+Disallow: /why-e2-treaty-investors-matter-for-immigration-reform.html
+
+Sitemap: http://e2visalobby.org/sitemap.xml
